@@ -71,7 +71,7 @@ header {
 }
 
 section {
-    background-image: url(./Images/background-about.png);
+    background-image: url(./background-about.png);
     background-position: right;
     height: 100vh;
     display: flex;
