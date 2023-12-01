@@ -74,7 +74,7 @@ header {
 /* PORTFOLIO ****************      */
 
 section {
-    background-image: url(./Images/background-portfolio.png);
+    background-image: url(./background-portfolio.png);
     background-position: center;
     height: 100vh;
     padding: 5%;
