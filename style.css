@@ -71,7 +71,11 @@ header {
 }
 
 section {
+<<<<<<< HEAD
+    background-image: url(images/background-about.png);
+=======
     background-image: url(./background-about.png);
+>>>>>>> 93f992526ba62ecc7d711eff9fa0888ae541fdca
     background-position: right;
     height: 100vh;
     display: flex;
